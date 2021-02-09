@@ -1,2 +1,0 @@
-# Hyperblog
-Un buen blog
